@@ -1,5 +1,5 @@
 
-<h3 align="center">I'm a passionate Frontend Developer from India <img src="https://raw.githubusercontent.com/shivam1317/shivam1317/main/273152153_276956157871047_5000497609934890823_n.png" width="20px" alt="India Flag">.</h3>
+<h3 align="center">I'm a passionate Frontend Developer from India <img src="https://raw.githubusercontent.com/shivam1317/shivam1317/main/273152153_276956157871047_5000497609934890823_n.png" >.</h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
