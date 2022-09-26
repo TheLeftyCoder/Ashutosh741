@@ -2,6 +2,7 @@
 <h3 align="center">I'm a passionate Frontend Developer from India <img src="https://raw.githubusercontent.com/shivam1317/shivam1317/main/273152153_276956157871047_5000497609934890823_n.png" >.</h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashutosh741&label=Profile%20views&color=0e75b6&style=flat" alt="Ashutosh741" /> </p>
 
 ## 🙋‍♂️ About Me
 
