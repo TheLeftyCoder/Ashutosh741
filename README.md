@@ -1,5 +1,5 @@
 
-<h3 align="center">I'm a passionate MERN Stack Developer from India <img src="[https://raw.githubusercontent.com/shivam1317/shivam1317/main/273152153_276956157871047_5000497609934890823_n.png](https://camo.githubusercontent.com/65de73171b032a2f5ecaaa4393f8d488cf9c85563947105f54bc7941a10f0f0b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966)" >.</h3>
+<h3 align="center">I'm a passionate MERN Stack Developer from India <img src="https://camo.githubusercontent.com/65de73171b032a2f5ecaaa4393f8d488cf9c85563947105f54bc7941a10f0f0b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966" >.</h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashutosh741&label=Profile%20views&color=0e75b6&style=flat" alt="Ashutosh741" /> </p>
